@@ -1,0 +1,12 @@
+langchain
+langchain-classic
+langchain-community
+langchain-openai
+langchain-pinecone
+langchain-huggingface
+openai
+tiktoken
+pinecone
+pymupdf
+streamlit
+python-dotenv
