@@ -21,7 +21,7 @@ loader = DirectoryLoader(
     loader_cls=PyMuPDFLoader
 )
 
-documents = loader.load()
+documents = loader.load() #each page is one document so output is list of documents
 
 print("Splitting documents...")
 
